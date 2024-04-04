@@ -85,6 +85,7 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
+![alt text](<Screenshot from 2024-04-04 17-01-21-1.png>)
 
 
 
