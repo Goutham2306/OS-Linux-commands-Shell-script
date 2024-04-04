@@ -52,6 +52,7 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
+![alt text](<Screenshot from 2024-04-04 16-37-21-1.png>)
  
 comm file1 file2
  ## OUTPUT
