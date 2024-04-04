@@ -56,6 +56,8 @@ cmp file1 file2
  
 comm file1 file2
  ## OUTPUT
+ ![alt text](<Screenshot from 2024-04-04 16-48-04-1.png>)
+
 
  
 diff file1 file2
