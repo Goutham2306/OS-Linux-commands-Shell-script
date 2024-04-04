@@ -62,7 +62,7 @@ comm file1 file2
  
 diff file1 file2
 ## OUTPUT
-
+![alt text](<Screenshot from 2024-04-04 16-53-49-1.png>)
 
 #Filters
 
